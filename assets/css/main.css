@@ -1373,7 +1373,7 @@ input, select, textarea {
 	}
 
 	h1 {
-		font-size: 5.0em;
+		font-size: 150%;
 		letter-spacing: -0.015em;
 	}
 
@@ -1390,7 +1390,7 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		h1 {
-			font-size: 2.75em;
+			font-size: 1.75em;
 		}
 
 		h2 {
