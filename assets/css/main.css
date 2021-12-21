@@ -1367,7 +1367,7 @@ input, select, textarea {
 
 		}
 
-	strong, b, h1, h2, h3, h4, h5, h6 {
+	strong, b, h1, h2, h3, h4, h5, h6, p {
 		font-weight: 400;
 		color: #363636;
 	}
@@ -1536,7 +1536,7 @@ input, select, textarea {
 
 		header > p {
 			margin: 0.5em 0 0 0;
-			color: #aaa;
+			color: rgb(129, 129, 129);
 		}
 
 		@media screen and (max-width: 736px) {
